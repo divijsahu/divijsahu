@@ -40,6 +40,9 @@ I build scalable cross-platform mobile applications with clean architecture and 
 
 ### 🌍 Global Ducan
 **Flutter • E-commerce • Payment Gateway • International Shipping**
+
+Global Ducan is a platform which enables users outside India to shop through Indian e-commerce platforms. They can select the products, and let Global Ducan know and we will shop the products and get them delivered to their doorsteps outside India.
+
 - Architected mobile platform enabling seamless Indian e-commerce marketplaces to be accessed across 149 countries
 - Engineered unified multi-store shopping cart allowing product aggregation from multiple Indian e-commerce stores
 - Engineered comprehensive multi-tier reward ecosystem with automated referral mechanisms and social sharing
@@ -48,6 +51,20 @@ I build scalable cross-platform mobile applications with clean architecture and 
 - Created comprehensive guest account feature with persistent sessions and seamless account conversion workflows
 - Built advanced order tracking system providing multi-stage delivery updates and international shipping integration
 - [View App](https://play.google.com/store/apps/details?id=com.globalducan.ducan) | [Website](https://globalducan.com/)
+
+### 🏓 Club Sync India - Administrative System
+**Flutter • Enterprise Management • Real-time Tracking • Financial Suite**
+
+Club Sync India empowers snooker club owners with robust tools for digital operations, financial clarity, player retention, and team coordination—maximizing efficiency and profits through modern tech.
+
+- Architected subscription-based feature access control with real-time feature toggling and role-based permissions
+- Engineered responsive UI architecture delivering seamless experiences across mobile, tablet, and desktop platforms
+- Built enterprise-level staff operations with attendance integration, overtime calculations, and salary processing
+- Developed advanced financial tracking suite with payment records, expenses, and business intelligence reporting
+- Implemented dynamic membership and promotional engine with membership tiers and time-based pricing controls
+- Built real-time game session operations with live snooker tracking and integrated food ordering system
+- Developed comprehensive customer account system with profile-based administration and data synchronization
+- **Duration**: July 2024 – Present
 
 ## 🛠️ Tech Stack
 
