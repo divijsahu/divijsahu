@@ -37,9 +37,9 @@ I build scalable cross-platform mobile applications with clean architecture and 
 **Deployment**
 - Google Play Console | Apple App Store Connect | Performance Monitoring
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
-![Divij's GitHub stats](https://github-readme-stats.vercel.app/api?username=divijsahu&show_icons=true&theme=radical)
+<!-- ![Divij's GitHub stats](https://github-readme-stats.vercel.app/api?username=divijsahu&show_icons=true&theme=radical) -->
 
 ## 📫 Let's Connect
 
