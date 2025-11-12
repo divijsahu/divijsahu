@@ -6,7 +6,7 @@ I build scalable cross-platform mobile applications with clean architecture and 
 
 ## 🚀 About Me
 
-- 🔭 Currently working as **Flutter Developer** at Posta Ventures Private Limited
+- 🔭 Currently working as **SDE II** at Posta Ventures Private Limited
 - 📱 Built apps serving **41,000+ active users** with **100,000+ downloads**
 - ⭐ Achieved **4.0+ app store ratings** through optimized user experiences
 - 🎯 Specialized in **Clean Architecture**, **SOLID principles**, and **State Management**
@@ -14,27 +14,29 @@ I build scalable cross-platform mobile applications with clean architecture and 
 
 ## 💼 Work Experience
 
-### Flutter Developer | Posta Ventures Private Limited
+### SDE II | Posta Ventures Private Limited
 **August 2025 - Present**
-- Currently developing innovative mobile solutions using Flutter
-- Working on cross-platform applications with modern architecture patterns
-- Collaborating with cross-functional teams to deliver high-quality products
+- Architected international e-commerce mobile platform serving 149 countries with multi-store integration
+- Integrated Spring Boot backend APIs for authentication, payment processing, and order management
+- Developed cross-platform Flutter applications with advanced state management and clean architecture
+- Collaborated on Java Spring Boot codebase for API enhancements and JWT security implementation
+- Built dynamic promotional systems with intelligent coupon management and referral mechanisms
 
 ### Flutter Developer | Amarya Business Consultancy Private Limited
 **July 2023 - July 31, 2025**
-- Built scalable mobile applications serving 41,000+ active users
-- Achieved 100,000+ downloads across multiple app releases
-- Implemented clean architecture and SOLID design principles
-- Reduced maintenance overhead by 35% through optimal code structure
-- Improved app performance with 25% faster load times
+- Engineered enterprise management systems with subscription-based access control and role permissions
+- Developed responsive UI architecture supporting mobile, tablet, and desktop platforms seamlessly
+- Built real-time tracking systems with live session monitoring and integrated ordering workflows
+- Implemented advanced financial suites with automated calculations and business intelligence reporting
+- Created comprehensive customer management systems with profile administration and data synchronization
 
 ## 💼 Professional Highlights
 
-- ✅ Reduced maintenance overhead by **35%** using SOLID design principles
-- ✅ Deployed multiple apps to **Google Play Store** and **Apple App Store**
-- ✅ Improved app performance with **25% faster load times**
-- ✅ Reduced user churn by **20%** through UX optimization
-- ✅ Transformed **50+ business requirements** into production implementations
+- ✅ Served **41,000+ active users** across multiple platforms with **100,000+ downloads**
+- ✅ Achieved **4.0+ app store ratings** through optimized user experiences and performance
+- ✅ Built applications supporting **149 countries** with localized payment and shipping integration
+- ✅ Reduced maintenance overhead by **35%** and improved performance by **25%** using clean architecture
+- ✅ Successfully integrated **Java Spring Boot APIs** with Flutter applications for seamless data flow
 
 ## 🚀 Featured Projects
 
@@ -45,11 +47,12 @@ Global Ducan is a platform which enables users outside India to shop through Ind
 
 - Architected mobile platform enabling seamless Indian e-commerce marketplaces to be accessed across 149 countries
 - Engineered unified multi-store shopping cart allowing product aggregation from multiple Indian e-commerce stores
-- Engineered comprehensive multi-tier reward ecosystem with automated referral mechanisms and social sharing
+- Integrated with Spring Boot backend APIs for user authentication, product management, and order processing
 - Developed country-specific payment gateway integration supporting localized payment methods
 - Implemented dynamic promotional system with intelligent coupon management and discount campaigns
 - Created comprehensive guest account feature with persistent sessions and seamless account conversion workflows
 - Built advanced order tracking system providing multi-stage delivery updates and international shipping integration
+- Contributed to backend development: assisted with Spring Security JWT implementation and API endpoint design
 - [View App](https://play.google.com/store/apps/details?id=com.globalducan.ducan) | [Website](https://globalducan.com/)
 
 ### 🏓 Club Sync India - Administrative System
@@ -65,6 +68,7 @@ Club Sync India empowers snooker club owners with robust tools for digital opera
 - Built real-time game session operations with live snooker tracking and integrated food ordering system
 - Developed comprehensive customer account system with profile-based administration and data synchronization
 - **Duration**: July 2024 – Present
+- [View App](https://play.google.com/store/apps/details?id=com.clubsyncindia.admin&pcampaignid=web_share) | [Website](https://www.clubsyncindia.com/)
 
 ## 🛠️ Tech Stack
 
@@ -76,9 +80,10 @@ Club Sync India empowers snooker club owners with robust tools for digital opera
 
 **Backend & Integration**
 - Firebase | RESTful APIs | Razorpay Payment Gateway
+- Basic Java Spring Boot
 
 **Tools & Platforms**
-- Android Studio | VS Code | Xcode | Git/GitHub | Postman | Firebase Console
+- Android Studio | VS Code | Xcode | IntelliJ IDEA | Git/GitHub | Postman | Firebase Console
 
 **Deployment**
 - Google Play Console | Apple App Store Connect | Performance Monitoring
