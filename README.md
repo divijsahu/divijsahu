@@ -68,7 +68,12 @@ Club Sync India empowers snooker club owners with robust tools for digital opera
 - Built real-time game session operations with live snooker tracking and integrated food ordering system
 - Developed comprehensive customer account system with profile-based administration and data synchronization
 - **Duration**: July 2024 – Present
-- [View App](https://play.google.com/store/apps/details?id=com.clubsyncindia.admin&pcampaignid=web_share) | [Website](https://www.clubsyncindia.com/)
+
+**Links:**
+- 🎯 **[Portfolio Repository](https://github.com/divijsahu/club-sync-india-snooker-pos)** - Complete technical documentation, architecture, and screenshots
+- 📱 **[Google Play Store](https://play.google.com/store/apps/details?id=com.clubsyncindia.admin)** - Live production app
+- 🧪 **[iOS TestFlight](https://testflight.apple.com/join/4Jbq8JTx)** - Beta testing
+- 🌐 **[Website](https://www.clubsyncindia.com/)** - Official website
 
 ## 🛠️ Tech Stack
 
