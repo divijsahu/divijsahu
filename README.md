@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divij-sahu-flutter-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divijsahu@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://divijsahu.github.io/)
 
 </div>
 
@@ -21,6 +20,49 @@
 - ⭐ Achieved **4.0+ app store ratings** through optimized user experiences
 - 🎯 Specialized in **Clean Architecture**, **SOLID principles**, and **State Management**
 - 📍 Based in **Jabalpur, India**
+
+---
+
+## 💼 Work Experience
+
+### **SDE II** • Posta Ventures Private Limited
+_August 2025 - Present_
+> Architected international e-commerce mobile platform serving 149 countries.
+
+- Integrated RESTful APIs for authentication, payment processing, and order management.
+- Developed cross-platform Flutter applications with advanced state management.
+- Built dynamic promotional systems with intelligent coupon management.
+- Implemented secure user authentication and seamless payment processing workflows.
+
+### **Flutter Developer** • Amarya Business Consultancy Private Limited
+_July 2023 - July 31, 2025_
+> Engineered enterprise management systems with subscription-based access control.
+
+- Developed responsive UI architecture supporting mobile, tablet, and desktop platforms.
+- Built real-time tracking systems with live session monitoring.
+- Implemented advanced financial suites with automated calculations.
+- Created comprehensive customer management systems.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 Global Ducan
+**Flutter • E-commerce • Payment Gateway • International Shipping**
+
+International e-commerce platform enabling users outside India to shop from Indian marketplaces. Supports 149 countries, localized payments, and multi-store cart.
+
+[View App](https://play.google.com/store/apps/details?id=com.globalducan.ducan) • [Website](https://globalducan.com/)
+
+### 🏓 Club Sync India
+**Flutter • Enterprise Management • Real-time Tracking • Financial Suite**
+
+Enterprise management system for snooker clubs. Features real-time tracking, financial suites, and staff operations.
+
+- 🎯 **[Portfolio Repository](https://github.com/divijsahu/club-sync-india-snooker-pos)** - Complete technical documentation, architecture, and screenshots
+- 📱 **[Google Play Store](https://play.google.com/store/apps/details?id=com.clubsyncindia.admin)** - Live production app
+- 🧪 **[iOS TestFlight](https://testflight.apple.com/join/4Jbq8JTx)** - Beta testing
+- 🌐 **[Website](https://www.clubsyncindia.com/)** - Official website
 
 ---
 
@@ -48,58 +90,6 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Divij's GitHub stats](https://github-readme-stats.vercel.app/api?username=divijsahu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divijsahu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## 💼 Work Experience
-
-### **SDE II** • Posta Ventures Private Limited
-_August 2025 - Present_
-> Architected international e-commerce mobile platform serving 149 countries.
-
-<details>
-<summary><b>View Details</b></summary>
-
-- Integrated RESTful APIs for authentication, payment processing, and order management.
-- Developed cross-platform Flutter applications with advanced state management.
-- Built dynamic promotional systems with intelligent coupon management.
-- Implemented secure user authentication and seamless payment processing workflows.
-
-</details>
-
-### **Flutter Developer** • Amarya Business Consultancy Private Limited
-_July 2023 - July 31, 2025_
-> Engineered enterprise management systems with subscription-based access control.
-
-<details>
-<summary><b>View Details</b></summary>
-
-- Developed responsive UI architecture supporting mobile, tablet, and desktop platforms.
-- Built real-time tracking systems with live session monitoring.
-- Implemented advanced financial suites with automated calculations.
-- Created comprehensive customer management systems.
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **🌍 Global Ducan** | International e-commerce platform enabling users outside India to shop from Indian marketplaces. Supports 149 countries, localized payments, and multi-store cart. | [View App](https://play.google.com/store/apps/details?id=com.globalducan.ducan) <br> [Website](https://globalducan.com/) |
-| **🏓 Club Sync India** | Enterprise management system for snooker clubs. Features real-time tracking, financial suites, and staff operations. | [Portfolio](https://github.com/divijsahu/club-sync-india-snooker-pos) <br> [Play Store](https://play.google.com/store/apps/details?id=com.clubsyncindia.admin) |
 
 ---
 
