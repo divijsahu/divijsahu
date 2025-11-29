@@ -1,105 +1,110 @@
+<div align="center">
+
 # Hi there, I'm Divij Sahu 👋
 
-### Flutter Developer • 2.5+ Years Experience • 100K+ Downloads
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Developer;SDE+II+%40+Posta+Ventures;Clean+Architecture+Enthusiast;100K%2B+App+Downloads)](https://git.io/typing-svg)
 
-I build scalable cross-platform mobile applications with clean architecture and pixel-perfect UI implementations.
-
-## 🚀 About Me
-
-- 🔭 Currently working as **SDE II** • Posta Ventures Private Limited
-- 📱 Built apps serving **41,000+ active users** with **100,000+ downloads**
-- ⭐ Achieved **4.0+ app store ratings** through optimized user experiences
-- 🎯 Specialized in **Clean Architecture**, **SOLID principles**, and **State Management**
-- 📍 Based in Jabalpur, India
-
-## 💼 Work Experience
-
-### SDE II • Posta Ventures Private Limited
-**August 2025 - Present**
-- Architected international e-commerce mobile platform serving 149 countries with multi-store integration
-- Integrated RESTful APIs for authentication, payment processing, and order management
-- Developed cross-platform Flutter applications with advanced state management and clean architecture
-- Built dynamic promotional systems with intelligent coupon management and referral mechanisms
-- Implemented secure user authentication and seamless payment processing workflows
-
-### Flutter Developer • Amarya Business Consultancy Private Limited
-**July 2023 - July 31, 2025**
-- Engineered enterprise management systems with subscription-based access control and role permissions
-- Developed responsive UI architecture supporting mobile, tablet, and desktop platforms seamlessly
-- Built real-time tracking systems with live session monitoring and integrated ordering workflows
-- Implemented advanced financial suites with automated calculations and business intelligence reporting
-- Created comprehensive customer management systems with profile administration and data synchronization
-
-## 💼 Professional Highlights
-
-- ✅ Served **41,000+ active users** across multiple platforms with **100,000+ downloads**
-- ✅ Achieved **4.0+ app store ratings** through optimized user experiences and performance
-- ✅ Built applications supporting **149 countries** with localized payment and shipping integration
-- ✅ Reduced maintenance overhead by **35%** and improved performance by **25%** using clean architecture
-- ✅ Successfully integrated **RESTful APIs** with Flutter applications for seamless data flow
-
-## 🚀 Featured Projects
-
-### 🌍 Global Ducan
-**Flutter • E-commerce • Payment Gateway • International Shipping**
-
-Global Ducan is a platform which enables users outside India to shop through Indian e-commerce platforms. They can select the products, and let Global Ducan know and we will shop the products and get them delivered to their doorsteps outside India.
-
-- Architected mobile platform enabling seamless Indian e-commerce marketplaces to be accessed across 149 countries
-- Engineered unified multi-store shopping cart allowing product aggregation from multiple Indian e-commerce stores
-- Integrated with RESTful APIs for user authentication, product management, and order processing
-- Developed country-specific payment gateway integration supporting localized payment methods
-- Implemented dynamic promotional system with intelligent coupon management and discount campaigns
-- Created comprehensive guest account feature with persistent sessions and seamless account conversion workflows
-- Built advanced order tracking system providing multi-stage delivery updates and international shipping integration
-- [View App](https://play.google.com/store/apps/details?id=com.globalducan.ducan) • [Website](https://globalducan.com/)
-
-### 🏓 Club Sync India - Administrative System
-**Flutter • Enterprise Management • Real-time Tracking • Financial Suite**
-
-Club Sync India empowers snooker club owners with robust tools for digital operations, financial clarity, player retention, and team coordination—maximizing efficiency and profits through modern tech.
-
-- Architected subscription-based feature access control with real-time feature toggling and role-based permissions
-- Engineered responsive UI architecture delivering seamless experiences across mobile, tablet, and desktop platforms
-- Built enterprise-level staff operations with attendance integration, overtime calculations, and salary processing
-- Developed advanced financial tracking suite with payment records, expenses, and business intelligence reporting
-- Implemented dynamic membership and promotional engine with membership tiers and time-based pricing controls
-- Built real-time game session operations with live snooker tracking and integrated food ordering system
-- Developed comprehensive customer account system with profile-based administration and data synchronization
-- **Duration**: July 2024 – Present
-
-**Links:**
-- 🎯 **[Portfolio Repository](https://github.com/divijsahu/club-sync-india-snooker-pos)** - Complete technical documentation, architecture, and screenshots
-- 📱 **[Google Play Store](https://play.google.com/store/apps/details?id=com.clubsyncindia.admin)** - Live production app
-- 🧪 **[iOS TestFlight](https://testflight.apple.com/join/4Jbq8JTx)** - Beta testing
-- 🌐 **[Website](https://www.clubsyncindia.com/)** - Official website
-
-## 🛠️ Tech Stack
-
-**Mobile Development**
-- Flutter/Dart • iOS & Android • Responsive UI Design
-
-**Architecture & Patterns**
-- Provider • BLoC • Clean Architecture • MVVM • Dependency Injection
-
-**Backend & Integration**
-- Firebase • RESTful APIs • Razorpay Payment Gateway
-
-**Tools & Platforms**
-- Android Studio • VS Code • Xcode • Git/GitHub • Postman • Firebase Console
-
-**Deployment**
-- Google Play Console • Apple App Store Connect • Performance Monitoring
-
-<!-- ## 📊 GitHub Stats -->
-
-<!-- ![Divij's GitHub stats](https://github-readme-stats.vercel.app/api?username=divijsahu&show_icons=true&theme=radical) -->
-
-## 📫 Let's Connect
+### Building scalable cross-platform mobile applications with clean architecture and pixel-perfect UI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divij-sahu-flutter-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divijsahu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://divijsahu.github.io/)
+
+</div>
 
 ---
 
-⭐️ From [divijsahu](https://github.com/divijsahu)
+## 🚀 About Me
+
+- 🔭 Currently working as **SDE II** at **Posta Ventures Private Limited**
+- 📱 Built apps serving **41,000+ active users** with **100,000+ downloads**
+- ⭐ Achieved **4.0+ app store ratings** through optimized user experiences
+- 🎯 Specialized in **Clean Architecture**, **SOLID principles**, and **State Management**
+- 📍 Based in **Jabalpur, India**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Mobile & Core
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+### Architecture & State Management
+![Provider](https://img.shields.io/badge/Provider-42a5f5?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC-1565c0?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-4caf50?style=for-the-badge)
+
+### Backend & Tools
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Divij's GitHub stats](https://github-readme-stats.vercel.app/api?username=divijsahu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divijsahu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+### **SDE II** • Posta Ventures Private Limited
+_August 2025 - Present_
+> Architected international e-commerce mobile platform serving 149 countries.
+
+<details>
+<summary><b>View Details</b></summary>
+
+- Integrated RESTful APIs for authentication, payment processing, and order management.
+- Developed cross-platform Flutter applications with advanced state management.
+- Built dynamic promotional systems with intelligent coupon management.
+- Implemented secure user authentication and seamless payment processing workflows.
+
+</details>
+
+### **Flutter Developer** • Amarya Business Consultancy Private Limited
+_July 2023 - July 31, 2025_
+> Engineered enterprise management systems with subscription-based access control.
+
+<details>
+<summary><b>View Details</b></summary>
+
+- Developed responsive UI architecture supporting mobile, tablet, and desktop platforms.
+- Built real-time tracking systems with live session monitoring.
+- Implemented advanced financial suites with automated calculations.
+- Created comprehensive customer management systems.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **🌍 Global Ducan** | International e-commerce platform enabling users outside India to shop from Indian marketplaces. Supports 149 countries, localized payments, and multi-store cart. | [View App](https://play.google.com/store/apps/details?id=com.globalducan.ducan) <br> [Website](https://globalducan.com/) |
+| **🏓 Club Sync India** | Enterprise management system for snooker clubs. Features real-time tracking, financial suites, and staff operations. | [Portfolio](https://github.com/divijsahu/club-sync-india-snooker-pos) <br> [Play Store](https://play.google.com/store/apps/details?id=com.clubsyncindia.admin) |
+
+---
+
+<div align="center">
+
+### ⭐️ From [divijsahu](https://github.com/divijsahu)
+
+</div>
