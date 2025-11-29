@@ -29,19 +29,21 @@
 _August 2025 - Present_
 > Architected international e-commerce mobile platform serving 149 countries.
 
-- Integrated RESTful APIs for authentication, payment processing, and order management.
-- Developed cross-platform Flutter applications with advanced state management.
-- Built dynamic promotional systems with intelligent coupon management.
-- Implemented secure user authentication and seamless payment processing workflows.
+- Architected international e-commerce mobile platform serving 149 countries with multi-store shopping integration.
+- Transformed 50+ business requirements into detailed technical specifications and production implementations.
+- Created comprehensive guest account feature with persistent sessions and seamless account conversion workflows.
+- Integrated country-specific payment gateways supporting localized payment and multi-currency transactions.
+- Optimized application performance achieving sub-second load times with efficient state management and caching.
 
 ### **Flutter Developer** • Amarya Business Consultancy Private Limited
 _July 2023 - July 31, 2025_
 > Engineered enterprise management systems with subscription-based access control.
 
-- Developed responsive UI architecture supporting mobile, tablet, and desktop platforms.
-- Built real-time tracking systems with live session monitoring.
-- Implemented advanced financial suites with automated calculations.
-- Created comprehensive customer management systems.
+- Built responsive cross-platform applications serving 41,000+ active users with 100,000+ downloads and 4.0+ ratings.
+- Architected scalable mobile solutions using SOLID principles, reducing maintenance overhead by 35%.
+- Optimized application performance achieving 25% faster load times through efficient state management.
+- Improved user experience resulting in 4.0+ app store ratings and 20% reduction in user churn.
+- Executed complete deployment lifecycle to Google Play Store and Apple App Store Connect with full compliance.
 
 ---
 
@@ -98,3 +100,8 @@ Enterprise management system for snooker clubs. Features real-time tracking, fin
 ### ⭐️ From [divijsahu](https://github.com/divijsahu)
 
 </div>
+
+
+
+
+
