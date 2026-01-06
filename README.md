@@ -2,9 +2,9 @@
 
 # Hi there, I'm Divij Sahu 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Developer;SDE+II+%40+Posta+Ventures;Clean+Architecture+Enthusiast;100K%2B+App+Downloads)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Flutter+%7C+React+%7C+Node.js;SDE+II+%40+Posta+Ventures;100K%2B+App+Downloads)](https://git.io/typing-svg)
 
-### Building scalable cross-platform mobile applications with clean architecture and pixel-perfect UI.
+### Building scalable full-stack applications with Flutter, React, and Node.js - from mobile to web to backend.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divij-sahu-flutter-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divijsahu@gmail.com)
@@ -18,7 +18,8 @@
 - 🔭 Currently working as **SDE II** at **Posta Ventures Private Limited**
 - 📱 Built apps serving **41,000+ active users** with **100,000+ downloads**
 - ⭐ Achieved **4.0+ app store ratings** through optimized user experiences
-- 🎯 Specialized in **Clean Architecture**, **SOLID principles**, and **State Management**
+- 🎯 Specialized in **Full-Stack Development**: Flutter (Mobile) + React (Web) + Node.js (Backend)
+- 🏗️ Expert in **Clean Architecture**, **SOLID principles**, and **State Management**
 - 📍 Based in **Jabalpur, India**
 
 ---
@@ -57,14 +58,14 @@ International e-commerce platform enabling users outside India to shop from Indi
 [View App](https://play.google.com/store/apps/details?id=com.globalducan.ducan) • [Website](https://globalducan.com/)
 
 ### 🏓 Club Sync India
-**Flutter • Enterprise Management • Real-time Tracking • Financial Suite**
+**Flutter • React.js • Node.js • Full-Stack Enterprise Management**
 
-Enterprise management system for snooker clubs. Features real-time tracking, financial suites, and staff operations.
+Full-stack enterprise management system for snooker clubs. Mobile app built with Flutter, web dashboard with React.js, and backend powered by Node.js. Features real-time tracking, financial suites, and staff operations.
 
 - 🎯 **[Portfolio Repository](https://github.com/divijsahu/club-sync-india-snooker-pos)** - Complete technical documentation, architecture, and screenshots
 - 📱 **[Google Play Store](https://play.google.com/store/apps/details?id=com.clubsyncindia.admin)** - Live production app
 - 🧪 **[iOS TestFlight](https://testflight.apple.com/join/4Jbq8JTx)** - Beta testing
-- 🌐 **[Website](https://www.clubsyncindia.com/)** - Official website
+- 🌐 **[Website](https://www.clubsyncindia.com/)** - Official website (React.js)
 
 ---
 
@@ -78,14 +79,25 @@ Enterprise management system for snooker clubs. Features real-time tracking, fin
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
+### Web Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 ### Architecture & State Management
 ![Provider](https://img.shields.io/badge/Provider-42a5f5?style=for-the-badge)
 ![BLoC](https://img.shields.io/badge/BLoC-1565c0?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-4caf50?style=for-the-badge)
 
-### Backend & Tools
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
